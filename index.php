@@ -440,7 +440,39 @@
 					</a>
 					<div class="course-info">
 						<!-- <div class="date"><i class="fa fa-clock-o"></i> 22 Mar 2018</div> -->
-						<h4>Bachelor of Vocation<br> in Landscape Design & Nutrition Dietetics</h4>
+						<h4>Bachelor of Vocation<br> in Landscape Design</h4>
+						<!-- <h4 class="cource-price">$150<span>/month</span></h4> -->
+					</div>
+				</div>
+				<!-- course item -->
+				<div class="col-md-6 course-item">
+					<a href="admission.php#landscape">
+						<div class="course-thumb">
+							<img src="img/course/2.jpg" alt="">
+							<div class="course-cat">
+								<span>NUTRITION & DIETEICS</span>
+							</div>
+						</div>
+					</a>
+					<div class="course-info">
+						<!-- <div class="date"><i class="fa fa-clock-o"></i> 22 Mar 2018</div> -->
+						<h4>Bachelor of Vocation<br> in Nutrition & Dietetics</h4>
+						<!-- <h4 class="cource-price">$150<span>/month</span></h4> -->
+					</div>	
+					</div>
+				<!-- course item -->
+				<div class="col-md-6 course-item">
+					<a href="admission.php#landscape">
+						<div class="course-thumb">
+							<img src="img/course/2.jpg" alt="">
+							<div class="course-cat">
+								<span>HANDICRAFT</span>
+							</div>
+						</div>
+					</a>
+					<div class="course-info">
+						<!-- <div class="date"><i class="fa fa-clock-o"></i> 22 Mar 2018</div> -->
+						<h4>Bachelor of Vocation<br> in Handicrafts</h4>
 						<!-- <h4 class="cource-price">$150<span>/month</span></h4> -->
 					</div>
 				</div>
